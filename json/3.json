@@ -1,0 +1,39 @@
+{
+   "name": "FAZEL #3",
+   "description": "Your Description2",
+   "image": "ipfs://CID/3.png",
+   "dna": "79756cc123a6877a9bfcd989084bc1fa082cb1f4",
+   "edition": 3,
+   "date": 1652019641979,
+   "attributes": [
+      {
+         "trait_type": "back3",
+         "value": "back (4)"
+      },
+      {
+         "trait_type": "back2",
+         "value": "back (31)"
+      },
+      {
+         "trait_type": "Body",
+         "value": "body (11)"
+      },
+      {
+         "trait_type": "Jewelery",
+         "value": "jewl (3)"
+      },
+      {
+         "trait_type": "Mouth",
+         "value": "mouth (11)"
+      },
+      {
+         "trait_type": "Glassess",
+         "value": "glasses (19)"
+      },
+      {
+         "trait_type": "Hair",
+         "value": "hair (3)"
+      }
+   ],
+   "compiler": "HashLips Art Engine"
+}

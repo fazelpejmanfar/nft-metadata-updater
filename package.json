@@ -1,0 +1,20 @@
+{
+  "name": "metadata-updater",
+  "version": "1.0.0",
+  "description": "tool to update your nft metadata",
+  "main": "rename.js",
+  "scripts": {
+    "rename": "node rename.js",
+    "update": "node update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "metadata-updater"
+  },
+  "keywords": [
+    "nft",
+    "metadata"
+  ],
+  "author": "fazelpejmanfar",
+  "license": "MIT"
+}

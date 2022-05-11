@@ -1,0 +1,39 @@
+{
+   "name": "FAZEL #5",
+   "description": "Your Description2",
+   "image": "ipfs://CID/5.png",
+   "dna": "82f7f0278e94448776e76b1bf65caf96b953fb04",
+   "edition": 5,
+   "date": 1652020847792,
+   "attributes": [
+      {
+         "trait_type": "back3",
+         "value": "back (1)"
+      },
+      {
+         "trait_type": "back2",
+         "value": "back (30)"
+      },
+      {
+         "trait_type": "Body",
+         "value": "body (2)"
+      },
+      {
+         "trait_type": "Jewelery",
+         "value": "headpko"
+      },
+      {
+         "trait_type": "Mouth",
+         "value": "mouth (10)"
+      },
+      {
+         "trait_type": "Glassess",
+         "value": "glasses (15)"
+      },
+      {
+         "trait_type": "Hair",
+         "value": "hair (5)"
+      }
+   ],
+   "compiler": "HashLips Art Engine"
+}
